@@ -1,0 +1,25 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Flash Card Generator",
+  "main": "BasicCard.js",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "partial": "0.0.5",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astie086/Flashcard-Generator.git"
+  },
+  "author": "Asad Haider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astie086/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/astie086/Flashcard-Generator#readme"
+}
